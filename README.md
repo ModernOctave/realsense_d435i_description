@@ -1,5 +1,5 @@
 # Realsense D435i Description
-This package contains the URDF description and gazebo plugins for the Intel Realsense D435i camera.
+This package contains the model descriptions to simulate the Realsense D435i camera in Gazebo.
 
 ## Dependencies
 This package depends on the following packages:
