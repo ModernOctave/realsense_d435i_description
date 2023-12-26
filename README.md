@@ -1,3 +1,6 @@
+# This package is archived!
+Use [realsense_gazebo_description](https://github.com/m-tartari/realsense_gazebo_description) instead.
+
 # Realsense D435i Description
 This package contains the model descriptions to simulate the Realsense D435i camera in Gazebo.
 
